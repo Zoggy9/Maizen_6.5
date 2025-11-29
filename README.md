@@ -1,5 +1,5 @@
 # Maizen
-# # Study Materials
+## Study Materials
 
 If you have arrived to this page via the password input site, then that means you are a student (or a dev testing whether the passsword interface works).<br>
 It also means that the game page has not finished development yet.<br><br>
