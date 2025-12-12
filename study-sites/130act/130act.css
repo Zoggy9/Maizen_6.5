@@ -67,8 +67,17 @@ iframe {
 }
 
 .maizen-button {
-  display: block; 
   width: 150px; 
   margin: 0 auto;
+  display: inline-block; /* Important for padding/margins */
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: sans-serif;
+}
+.maizen-button: hover {
+  background-color: #0056b3;
 }
 
